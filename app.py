@@ -81,9 +81,11 @@ def main():
             time.sleep(5)
         if prediction == 0:
             st.success("The mail is spam")
+            st.balloons()
         else:
             st.success("The mail is ham")
-        st.balloons()
+            st.balloons()
+        
         # html componets
     components.html("""
 
