@@ -1,4 +1,6 @@
 # Email_classifier
+The streamlite link is given below
+https://vinodkumar-yerraballi-email-classifier-app-h89qkb.streamlitapp.com/
 
 # Problem statement
 
