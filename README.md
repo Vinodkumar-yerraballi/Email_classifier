@@ -39,6 +39,10 @@ we build different models, such as LogisticRegression,DecisiontreeClassification
 
 Once the process is done then move to the model deployment. We use Streamlit for model deployment, We create a function for text data taken from the user and we predict the text is either spam or ham based on the data information. Once we deployed the model in the local host then we deployed the model in streamlit cloud.
 
+
+# Demo of the model deploment 
+[Screencast from 10-15-2022 01:38:49 PM.webm](https://user-images.githubusercontent.com/98636972/195976809-eb4e89da-3e86-4b40-a030-66ccc78cbebd.webm)
+
 # CONCLUSION
 
 After that We do Perfome the models for the test data and use the demo it.
