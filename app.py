@@ -1,12 +1,13 @@
 # Import the standard librarys for the model deploment
-import pandas as pd
+import base64
+import time
+
 import numpy as np
+import pandas as pd
 import streamlit as st
+import streamlit.components.v1 as components
 from sklearn.feature_extraction.text import TfidfVectorizer
 from xgboost import XGBClassifier
-import time
-import base64
-import streamlit.components.v1 as components
 
 # Set background title
 st.set_page_config(
